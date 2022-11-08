@@ -1,0 +1,51 @@
+{
+  "name": "dshevchenk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.ucode.world:connect-khpi/connect-fullstack-usof-frontend/dshevchenk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.6",
+    "axios": "^1.1.2",
+    "bootstrap": "^5.2.2",
+    "history": "^5.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.4",
+    "react-router-dom": "^6.4.2",
+    "react-scripts": "^5.0.1",
+    "react-validation": "^3.0.7",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.1",
+    "validator": "^13.7.0"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "devDependencies": {
+    "redux-devtools-extension": "^2.13.9"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
