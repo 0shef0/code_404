@@ -78,8 +78,7 @@ class App extends Component {
             
             <Link to={"/"} className="navbar-brand">
               <img
-                src = "code_404_logo_dark.png"
-                className="logo"
+                className="logo-dark"
               />
             </Link>
             
