@@ -6,5 +6,6 @@ for starting server use:
 `npm start`
 
 use the same commands for starting client
+
 Here you can see presentation of this project
 [Code_404.pptx](https://github.com/0shef0/code_404/files/10488776/Code_404.pptx)
